@@ -1,9 +1,15 @@
 body {
   padding-top: 5rem;
 }
-.puppy {
+.adorable {
   padding: 3rem 1.5rem;
   text-align: center;
+}
+
+.adorable img {
+  height: 358px; 
+  justify-content: center;
+  gap: 20px; 
 }
 
 .delete-comment {
